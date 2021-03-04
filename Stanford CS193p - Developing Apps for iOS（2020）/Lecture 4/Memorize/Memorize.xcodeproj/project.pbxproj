@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		171514DB25E8E38400C11A2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171514DA25E8E38400C11A2B /* AppDelegate.swift */; };
 		171514DD25E8E38400C11A2B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171514DC25E8E38400C11A2B /* SceneDelegate.swift */; };
 		171514DF25E8E38400C11A2B /* EmojiMemoryGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171514DE25E8E38400C11A2B /* EmojiMemoryGameView.swift */; };
 		171514E125E8E38500C11A2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 171514E025E8E38500C11A2B /* Assets.xcassets */; };
